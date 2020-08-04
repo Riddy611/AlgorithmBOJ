@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "sstream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "xstring": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\jueon\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+}
